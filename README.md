@@ -6,7 +6,7 @@ SHA-256 hashing for data security
 Proof of Work (PoW) as a consensus mechanism
 Blockchain validation to ensure integrity
 How to Run
-To run this project, use an online Python compiler or a local Python environment.
+To run this project, use an online Python compiler or a local Python environment like pycharm.
 
 If using an online Python compiler, upload the necessary files and execute the script.
 If running locally, ensure Python 3.x is installed and run the files.
